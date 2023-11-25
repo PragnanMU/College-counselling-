@@ -1,0 +1,71 @@
+//this file was present in the directory "C:\Users\Pragnan M U\OneDrive\Desktop\project.txt"
+1-100: R.V. College of Engineering, Bangalore
+101-200: PES University, Bangalore
+201-300: BMS College of Engineering, Bangalore
+301-400: Sri Jayachamarajendra College of Engineering (SJCE), Mysuru
+401-500: B.V. Bhoomaraddi College of Engineering and Technology (BVBCET), Hubli
+501-600: Dayananda Sagar College of Engineering, Bangalore
+601-700: M.S. Ramaiah Institute of Technology (MSRIT), Bangalore
+701-800: Nitte Meenakshi Institute of Technology (NMIT), Bangalore
+801-900: Siddaganga Institute of Technology (SIT), Tumkur
+901-1000: Bangalore Institute of Technology (BIT), Bangalore
+1001-1100: University Visvesvaraya College of Engineering (UVCE), Bangalore
+1101-1200: RNS Institute of Technology, Bangalore
+1201-1300: National Institute of Engineering (NIE), Mysuru
+1301-1400: KLE Technological University, Hubli
+1401-1500: JSS Science and Technology University, Mysuru
+1501-1600: Sir M. Visvesvaraya Institute of Technology (Sir MVIT), Bangalore
+1601-1700: Nitte University, Mangalore
+1701-1800: BMS Institute of Technology and Management, Bangalore
+1801-1900: Acharya Institute of Technology, Bangalore
+1901-2000: Reva University, Bangalore
+2001-2100: K.S. Institute of Technology, Bangalore
+2101-2200: Siddaganga Institute of Technology, Tumkur
+2201-2300: R.V.S. College of Engineering and Technology, Dindigul
+2301-2400: Bannari Amman Institute of Technology, Erode
+2401-2500: Kumaraguru College of Technology, Coimbatore
+2501-2600: Coimbatore Institute of Technology, Coimbatore
+2601-2700: PSG College of Technology, Coimbatore
+2701-2800: SSN College of Engineering, Chennai
+2801-2900: Vellore Institute of Technology (VIT), Vellore
+2901-3000: SRM Institute of Science and Technology, Chennai
+3001-3100: Manipal Institute of Technology (MIT), Manipal
+3101-3200: NITTE Meenakshi Institute of Technology, Bangalore
+3201-3300: Government Engineering College, Hassan
+3301-3400: New Horizon College of Engineering, Bangalore
+3401-3500: MS Engineering College, Bangalore
+3501-3600: CMR Institute of Technology, Bangalore
+3601-3700: Shri Dharmasthala Manjunatheshwara College of Engineering and Technology, Dharwad
+3701-3800: Yellamma Dasappa Institute of Technology, Bangalore
+3801-3900: Sahyadri College of Engineering and Management, Mangalore
+3901-4000: East West Institute of Technology, Bangalore
+4001-4100: SJB Institute of Technology, Bangalore
+4101-4200: AMC Engineering College, Bangalore
+4201-4300: Global Academy of Technology, Bangalore
+4301-4400: MVJ College of Engineering, Bangalore
+4401-4500: Rajiv Gandhi Institute of Technology, Bangalore
+4501-4600: T John Institute of Technology, Bangalore
+4601-4700: Bapuji Institute of Engineering and Technology, Davangere
+4701-4800: R.L. Jalappa Institute of Technology, Doddaballapura
+4801-4900: Nagarjuna College of Engineering and Technology, Bangalore
+4901-5000: Vidya Vardhaka College of Engineering, Mysuru
+5001-5100: Ballari Institute of Technology and Management, Ballari
+5101-5200: Vidya Vikas Institute of Engineering and Technology, Mysuru
+5201-5300: HKBK College of Engineering, Bangalore
+5301-5400: KLE Dr. MSSCET, Belagavi
+5401-5500: NIE Institute of Technology, Mysuru
+5501-5600: Kalpataru Institute of Technology, Tiptur
+5601-5700: Rao Bahadur Y. Mahabaleswarappa Engineering College, Ballari
+5701-5800: Atria Institute of Technology, Bangalore
+5801-5900: Cambridge Institute of Technology, Bangalore
+5901-6000: BNM Institute of Technology, Bangalore
+6001-6100: CMR Institute of Management Studies, Bangalore
+6101-6200: Vidyavardhaka College of Engineering, Mysuru
+6201-6300: Maharaja Institute of Technology, Mysuru
+6301-6400: PDA College of Engineering, Gulbarga
+6401-6500: S.E.A. College of Engineering and Technology, Bangalore
+6501-6600: Basaveshwara Engineering College, Bagalkot
+6601-6700: N.M.A.M. Institute of Technology, Nitte
+6701-6800: Raja Rajeswari College of Engineering, Bangalore
+6801-6900: Bearys Institute of Technology, Mangalore
+6901-7000: Ballari Institute of Technology and Management, Bellary
